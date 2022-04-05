@@ -1,6 +1,7 @@
-# LIST_Tools_Pro_Addin
+
 ## News
-* **30 March 2022 Initial Release** Internal version 10.16.14.
+* **30 March 2022 ReadMe added** Release delayed
+* **05 April 2022**  Release delayed
 
 
 # LIST_Tools_Pro_Addin
