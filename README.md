@@ -67,7 +67,7 @@ LIST_Tools_Pro_Addin is released to the wider community “as-is”. Although ou
 
 ## Contact
 
-**Location Services **
+**Location Services**
 
 134 Macquarie Street
 
