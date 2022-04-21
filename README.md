@@ -1,7 +1,7 @@
 
 ## News
 * **30 March 2022 ReadMe added** Release delayed
-* **05 April 2022**  Release delayed
+* **21 March 2022 Ist Release** v10.18.02
 
 
 # LIST_Tools_Pro_Addin
