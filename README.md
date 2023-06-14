@@ -6,7 +6,7 @@
 
 # LIST_Tools_Pro_Addin
 
-This ESRI Addin toolbar, for ArcGIS Pro 2.* provides quick access to theLIST. These services are focused on the Australian state of Tasmania. Also included is a tool to syncronize Google Earth with ArcGIS Pro. 
+This ESRI Addin toolbar, for ArcGIS Pro 2.6+ (Not Pro 3.*) provides quick access to theLIST. These services are focused on the Australian state of Tasmania. Also included is a tool to syncronize Google Earth with ArcGIS Pro. 
 This Addin is provided by [Land Tasmania](http://nre.tas.gov.au/land-tasmania).
 
 [**TheLIST**](https://www.thelist.tas.gov.au/app/content/home)  is a contemporary online service that provides access to integrated land and property information service. [LISTMap](https://maps.thelist.tas.gov.au/listmap/app/list/map) allows users to view and create maps from hundreds of authoritative spatial datasets, and find out more about the information shown on those maps.
